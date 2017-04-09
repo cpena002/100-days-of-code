@@ -16,3 +16,11 @@
 
 **Link to work:** [Wedding App](https://github.com/jessmccay/wedding_app/commit/82badb2ccbbd190f4938c0cf910c31a70521f79d)
 
+### Day 2: April 08, 2017 
+
+**Today's Progress**: It's Saturday. I continued working on the freecodecamp.com challenges.
+
+**Thoughts:** Solidifying knowledge. 
+
+**Link to work:** [Wedding App](https://www.freecodecamp.com/challenges/stand-in-line)
+
