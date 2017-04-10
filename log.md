@@ -24,3 +24,10 @@
 
 **Link to work:** [Wedding App](https://www.freecodecamp.com/challenges/stand-in-line)
 
+### Day 3: April 09, 2017 
+
+**Today's Progress**: It's Sunday. I continued working on the freecodecamp.com challenges.
+
+**Thoughts:** Solidifying knowledge. 
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.com/challenges/stand-in-line)
